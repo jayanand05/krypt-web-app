@@ -1,7 +1,7 @@
 
 Krypt-Web-App
 
-A simpler User Interface where you can send ETH to any Address with your personal message.efrftftgtgt
+A simpler User Interface where you can send ETH to any Address with your personal message.
 
 
 
